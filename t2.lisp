@@ -1,7 +1,0 @@
-(defun say-hello()
-	(print "Please type your name:")
-	(let ((name (read)))
-		 (print "nice to meet you,")
-		 (print name)
-	)
-)
